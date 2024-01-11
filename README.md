@@ -2,6 +2,14 @@
 
 This project shows a simple voting system using Vue.js with Vuetify for frontend purposes and FastAPI python scrip for backend services.
 
+
+
+![Screenshot](voting-add.png)
+
+![Screenshot](voting-vote.png)
+
+![Screenshot](voting-results.png)
+
 ### Quickstart
 
 #### `npm install`
