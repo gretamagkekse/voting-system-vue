@@ -1,6 +1,6 @@
 ## Voting system with Vue.js and FastAPI
 
-This project shows a simple voting system using Vue.js with Vuetify for frontend purposes and FastAPI python scrip for backend services.
+This project shows a simple voting system using Vue.js with Vuetify for frontend purposes and FastAPI python script for backend services.
 
 
 
